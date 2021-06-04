@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.gak-ngerti{
+    border: 1px black solid;
+}
+
+.fas{
+    font-size: 120px;
+}
+
+.main-color{
+    color: #98ded9;
+}
+
+.active{
+  font-weight: 600;
+}
+
+.bg{
+  background: #98ded9; 
+}
+
+.formulir{
+  max-width: 480px;
+  margin: auto;
+}
+
+.bd{
+  color: #98ded9;
+  border: 2px #98ded9 solid;
+}
+
+.bg-btn:hover{
+  color:#6c757d ;
+}
+
+.btn-solid:hover{
+  font-weight: 600;
+  background: #79d9d2;
+}
+
+.bd:hover{
+  color: #79d9d2; 
+  font-weight: 600;
+  border: 2px #79d9d2 solid; 
+}
+
+.font-logo{
+  font-size: 80px;
+}
+
+.sub-title:hover{
+  background: #fff;
+}
+
+.button{
+  background: none;
+  text-decoration: none;
+  color: inherit;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+.button:hover{
+  color: #1e2125;
+  background-color: #e9ecef;
+}
+
+.logo{
+  background: none;
+  text-decoration: none;
+  color: inherit;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+.body-back{
+  position: absolute;
+  width: 469px;
+  height: 469px;
+  left: 269px;
+  top: 553px;
+
+  background: linear-gradient(152.4deg, #FFFFFF 15.41%, rgba(121, 217, 210, 0.22) 83.66%);
+  box-shadow: inset 0px 4px 25px rgba(121, 217, 210, 0.25);
+}
+
+.inner-form{
+  width: calc(50% - 20px);
+  text-align: center;
+  align-items: center;
+}
+
+.core-form{
+  width: 90%;
+  margin: auto;
+}
+
+.formulir-upload{
+  width: calc(100%-20px);
+  max-width: 1100px;
+  margin: auto;
+}
